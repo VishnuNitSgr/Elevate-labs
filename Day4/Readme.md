@@ -8,8 +8,7 @@ The goal is to learn how databases return ordered results and how pagination wor
 
 ## 🛠 Tools Used
 - **MySQL Workbench**
-- **MySQL CLI**
-- (Concepts are also applicable to PostgreSQL)
+
 
 ---
 
