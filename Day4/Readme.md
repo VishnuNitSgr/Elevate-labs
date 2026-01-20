@@ -44,9 +44,3 @@ The goal is to learn how databases return ordered results and how pagination wor
 - Creating a leaderboard query
 
 ---
-
-## 🚀 How to Run
-
-### Using MySQL CLI
-```bash
-mysql -u root -p sorting_demo < Day4.sql
