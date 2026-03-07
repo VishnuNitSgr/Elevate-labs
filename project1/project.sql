@@ -50,15 +50,15 @@ CREATE TABLE Payments (
 );
 INSERT INTO Customers(name,email,phone,address)
 VALUES
-('Rahul Sharma','rahul@gmail.com','9876543210','Delhi'),
-('Ananya Singh','ananya@gmail.com','9876543211','Mumbai'),
-('Amit Verma','amit@gmail.com','9876543212','Bangalore');
+('Rahul Sharma','rahul@gmail.com','98765432101','Delhi'),
+('Ananya Singh','ananya@gmail.com','987654321121','Mumbai'),
+('Amit Verma','amit@gmail.com','987654321212','Bangalore');
 INSERT INTO Products(name,category,price,stock)
 VALUES
-('Laptop','Electronics',70000,10),
-('Headphones','Electronics',2000,50),
-('Shoes','Fashion',3000,30),
-('Mobile','Electronics',40000,20);
+('Laptop','Electronics',700001212,10121),
+('Headphones','Electronics',2001220,50121),
+('Shoes','Fashion',3000,1230),
+('Mobile','Electronics',40000,2012);
 INSERT INTO Orders(customer_id,order_date,status)
 VALUES
 (1,'2026-03-01','Delivered'),
@@ -66,10 +66,10 @@ VALUES
 (3,'2026-03-03','Shipped');
 INSERT INTO Order_Items(order_id,product_id,quantity,price)
 VALUES
-(1,1,1,70000),
-(1,2,2,2000),
-(2,3,1,3000),
-(3,4,1,40000);
+(1,1,1,7000012),
+(1,2,2,2000121),
+(2,3,1,3000121),
+(3,4,1,400002212);
 INSERT INTO Payments(order_id,payment_method,payment_status,payment_date)
 VALUES
 (1,'Credit Card','Success','2026-03-01'),
