@@ -1,0 +1,49 @@
+COVID-19 DATA ANALYSIS RESULTS
+
+--------------------------------------------------
+
+1. Top Affected Countries:
+The analysis shows that countries like USA, India, and Brazil have the highest number of confirmed COVID-19 cases.
+
+--------------------------------------------------
+
+2. Total Cases and Deaths:
+Countries with higher confirmed cases also show higher death counts, indicating a direct correlation between spread and mortality.
+
+--------------------------------------------------
+
+3. Death Rate Analysis:
+The death rate varies significantly across countries. Some countries have a higher percentage of deaths compared to confirmed cases, indicating differences in healthcare response.
+
+--------------------------------------------------
+
+4. Recovery Rate:
+Recovery rates differ across regions, with some countries showing strong recovery percentages while others lag behind.
+
+--------------------------------------------------
+
+5. Daily New Cases Trend:
+Using window functions (LAG), daily new cases were calculated, revealing spikes during certain periods, indicating waves of infection.
+
+--------------------------------------------------
+
+6. Cumulative Case Growth:
+The cumulative analysis shows a continuous increase in total cases over time, highlighting the global spread of the pandemic.
+
+--------------------------------------------------
+
+7. Top 5 Countries:
+The top 5 countries contribute a major portion of total global cases, indicating concentrated impact zones.
+
+--------------------------------------------------
+
+8. Data Insights:
+- COVID-19 spread is uneven across countries
+- Death and recovery rates vary significantly
+- Trend analysis helps identify peak periods
+- SQL window functions are effective for time-based analysis
+
+--------------------------------------------------
+
+Conclusion:
+The analysis demonstrates how SQL can be used to extract meaningful insights from real-world datasets. By applying aggregation, filtering, and window functions, important patterns and trends in COVID-19 data were identified.
