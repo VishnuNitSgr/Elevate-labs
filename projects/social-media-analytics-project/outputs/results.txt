@@ -1,0 +1,31 @@
+SOCIAL MEDIA ANALYTICS RESULTS
+
+--------------------------------------------------
+
+1. Top Posts:
+Posts with higher likes appear at the top, showing popularity trends.
+
+--------------------------------------------------
+
+2. Engagement Analysis:
+Engagement score (likes + comments) helps identify highly interactive posts.
+
+--------------------------------------------------
+
+3. User Activity:
+Some users are more active in posting and engaging than others.
+
+--------------------------------------------------
+
+4. Ranking:
+Posts are ranked using window functions based on like_count.
+
+--------------------------------------------------
+
+5. Trigger Functionality:
+Like counts are automatically updated using triggers, ensuring real-time consistency.
+
+--------------------------------------------------
+
+Conclusion:
+The system successfully tracks user engagement and provides meaningful analytics using SQL features like joins, views, window functions, and triggers.
