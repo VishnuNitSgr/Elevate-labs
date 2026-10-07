@@ -132,6 +132,4 @@ The project includes screenshots demonstrating:
 
 ⸻
 
-👨‍💻 Author
 
-Prashant Goyal
