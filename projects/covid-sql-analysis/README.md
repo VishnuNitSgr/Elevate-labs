@@ -26,7 +26,7 @@ The project demonstrates how SQL can be used for data analysis, reporting, and t
 📂 Project Structure
 
 ```
-covid-sql-analysis/
+covid-sql-analysis
 │
 ├── dataset/
 │   └── covid_data.csv
